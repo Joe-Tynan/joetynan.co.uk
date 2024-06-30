@@ -10,7 +10,7 @@ hero:
 features:
   - title: Django
     details: Posts about the Django web framework. Everything from top tips and things I've learnt to full tutorials.
-    link: /django
+    link: ./django
   - title: CSS
     details: Coming soon!
   - title: JavaScript

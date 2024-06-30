@@ -9,6 +9,6 @@ hero:
 features:
   - title: Best Django Books 2024
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /django/best-django-books-2024
+    link: ./django/best-django-books-2024
 ---
 
