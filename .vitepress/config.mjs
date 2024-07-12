@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Joe Tynan",
   description: "A development blog by Joe Tynan. I post about HTML, CSS, JavaScript, Django and more!",
+  head: [
+    [ 'meta', { name: 'google-site-verification', content: 'C11rEVaXgF2QtJRYRbNOIMhnkIeYk5ZJHhX-LrhEgQc' } ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
