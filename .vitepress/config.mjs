@@ -24,7 +24,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Joe-Tynan' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/joe-tynan/' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@joetynanweb' }
     ]
   },
   sitemap: {
